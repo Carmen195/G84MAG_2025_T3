@@ -40,7 +40,9 @@ Vamos a hacer un branch que se llama debug
 AHora voy a ver las diferencias entre merge y rebase .
 Voy a hacer un Merge primero. Voy a cambiar aqui y luego cambio el remoto
 para que haya conflicto
-cambio el mismo fichero desde otra unicacion . y commit
+cambio el mismo fichero desde otra ubicacion . y commit
+
+Ahora pruebo el rebase
 
 Edito desde el remoto para hacer un rebase.
 
