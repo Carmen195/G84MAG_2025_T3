@@ -1,1 +1,11 @@
 Soy el usuairo Carmen , y quiero ver como puedo compartir un fichero.
+
+Añado un fichero nuevo , luego ejecuto
+Git commit -am "comentario del commit"
+
+Con esto añado los nuevos ficheros al commit
+
+Git Push
+
+git commit -am "añado un archio"
+git push
