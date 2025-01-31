@@ -11,3 +11,5 @@ git commit -am "añado un archio"
 git push
 
 desde el propio github añado un comentario nuevo para que ahora pueda hacer el pull
+
+Hago otro segundo cambio en mi fichoero y hago commit
