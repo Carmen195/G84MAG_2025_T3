@@ -35,11 +35,3 @@ Hago de nuevo cambios y commmit para ver como funciona el update
 
 Voy a forzar otro conflicto y usar update . Aqui cambios y commit and push.
 
-Si antes de hacer el push y ya con el commit hecho doy a update , me identifica el conflocto ,
-me da la oportunidad de resolverlo .
-Una vez resuelto hago el push.
-
-Voy a mirar el historico haciendo git log
-Luego hago un revert haciendo git revert
-
-
