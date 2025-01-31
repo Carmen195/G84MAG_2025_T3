@@ -36,3 +36,7 @@ Hago de nuevo cambios y commmit para ver como funciona el update
 Voy a forzar otro conflicto y usar update . Aqui cambios y commit and push.
 
 Vamos a hacer un branch que se llama debug
+
+AHora voy a ver las diferencias entre merge y rebase .
+Voy a hacer un Merge primero. Voy a cambiar aqui y luego cambio el remoto
+para que haya conflicto
