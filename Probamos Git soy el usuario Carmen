@@ -13,3 +13,16 @@ git push
 desde el propio github añado un comentario nuevo para que ahora pueda hacer el pull
 
 Hago otro segundo cambio en mi fichoero y hago commit
+
+Cuando he hecho push desde el equipo me ha fallado
+y me ha dicho que primero tengo que hacer pull.
+
+Eh hecho pull y me ha dicho que hay conflictos y que debo:
+ - resolver los conflictos (lo he hecho con la interfaz visual)
+ - hacer commit
+ - luego hacer push
+ He hecho esto y ha ido bien.
+
+Voy a repetirlo con la interfaz visual.
+
+Cambio en local.
